@@ -17,6 +17,19 @@ Você pode me conhecer melhor por minhas redes.
   <img align= "center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <div/><br/>
 
-Sempre em busca de conhecimento!
+## Estudando 📚
 
-Whatsapp (77) 9 8126 0161 
+<div style="display: inline_block"><br/>
+  <img align= "center" alt="udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
+  <img align= "center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<div/><br/>
+
+## Ferramentas 🛠️
+
+<div style="display: inline_block"><br/>
+  <img align= "center" alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img align= "center" alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img align= "center" alt="chatgpt" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img align= "center" alt="edge" src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" />
+  <img align= "center" alt="figa" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />  
+<div/><br/>
